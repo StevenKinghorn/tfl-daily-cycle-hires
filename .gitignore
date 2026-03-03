@@ -1,5 +1,5 @@
 **/.ipynb_checkpoints/
-data/
+data/tfl-cycling-journey-data-2024-2025/raw-2024-2025-csv/*.csv
 venv/
 notes.odt
 .~lock.*
