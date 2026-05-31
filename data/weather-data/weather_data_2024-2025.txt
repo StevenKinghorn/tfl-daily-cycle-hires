@@ -1,0 +1,16 @@
+Data Source: Meteostat [https://meteostat.net/en/station/EGLC0?t=2024-01-01/2025-12-31]
+Weather Station location: London/Abbey Wood
+Includes daily weather data fro years 2024 and 2025
+
+#	Column	Description
+1	date	Date
+2	tavg	Avg. Temperature
+3	tmin	Min. Temperature
+4	tmax	Max. Temperature
+5	prcp	Total Precipitation
+6	snow	Snow Depth
+7	wdir	Wind Direction
+8	wspd	Wind Speed
+9	wpgt	Peak Gust
+10	pres	Air Pressure
+11	tsun	Sunshine Duration
